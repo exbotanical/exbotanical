@@ -1,12 +1,22 @@
 <h3 align="center">☾ willkommen ☽</h3>
 <hr />
 
-### Who?
-- lead frontend developer working in insurtech
-- especially interested in distributed consensus, non-blocking asynchrony, microfrontends, and reactive / evented programming
-- 💖 working with JavaScript / TypeScript, Go, C, React & Vue
-
-### What?!
-I'm trying to get more involved in the open source community. Further, I hope to make friends and acquaintances with whom I can collaborate and who share my love of programming. 
-
-
+```
+IRC Nick (freenode & libera): goldmund             ,----------------,              ,---------,
+                                              ,-----------------------,          ,"        ,"|
+Distro: Ubuntu on X11 w/ i3 + picom         ,"                      ,"|        ,"        ,"  |
+                                           +-----------------------+  |      ,"        ,"    |
+Terminal: Alacritty                        |  .-----------------.  |  |     +---------+      |
+                                           |  |                 |  |  |     | -==----'|      |
+Shell: Bash                                |  |                 |  |  |     |         |      |
+                                           |  |                 |  |  |/----|`---=    |      |
+Text Editor: Vim & VSCode                  |  |                 |  |  |   ,/|==== ooo |      ;
+                                           |  |                 |  |  |  // |(((( [33]|    ,"
+Fav Langs: js, ts, c, go                   |  `-----------------'  |," .;'  |((((     |  ,"
+                                           +-----------------------+  ;;    |         |,"
+                                              /_)______________(_/  //'     +---------+
+                                         ___________________________/___
+                                        /  oooooooooooooooo  .o.  oooo /,
+                                       / ==ooooooooooooooo==.o.  ooo= //
+                                      /_==__==========__==_ooo__ooo=_/'
+```

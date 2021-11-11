@@ -20,3 +20,5 @@ Fav Langs: js, ts, c, go                   |  `-----------------'  |," .;'  |(((
                                        / ==ooooooooooooooo==.o.  ooo= //
                                       /_==__==========__==_ooo__ooo=_/'
 ```
+
+Check out my [software bucket list](./mr_bucket.md)

@@ -19,5 +19,5 @@ Follows is a list of programs, software architectures, or problem statements tha
 - a browser-based implementation of multi-paxos
 - memchached / caching db implementation ([impl1](https://github.com/MatthewZito/tenure), [impl2](https://github.com/MatthewZito/tenure-go))
 - an implementation of RAFT
-- an implementation of Multi-Paxos
-- Reactivity library [impl](https://github.com/MatthewZito/vivisector)
+- an implementation of Multi-Paxos ([impl](https://github.com/MatthewZito/multi-paxos))
+- Reactivity library ([impl](https://github.com/MatthewZito/vivisector))

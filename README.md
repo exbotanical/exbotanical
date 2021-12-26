@@ -4,17 +4,17 @@
 ```
 IRC Nick (freenode & libera): goldmund             ,----------------,              ,---------,
                                               ,-----------------------,          ,"        ,"|
-Distro: Ubuntu on X11 w/ i3 + picom         ,"                      ,"|        ,"        ,"  |
+Distro: Ubuntu on                           ,"                      ,"|        ,"        ,"  |
                                            +-----------------------+  |      ,"        ,"    |
-Terminal: Alacritty                        |  .-----------------.  |  |     +---------+      |
+Desktop: X11 w/ i3 + picom                 |  .-----------------.  |  |     +---------+      |
                                            |  |                 |  |  |     | -==----'|      |
-Shell: Bash                                |  |                 |  |  |     |         |      |
+Terminal: Alacritty                        |  |                 |  |  |     |         |      |
                                            |  |                 |  |  |/----|`---=    |      |
-Text Editor: Vim & VSCode                  |  |                 |  |  |   ,/|==== ooo |      ;
+Shell: Bash                                |  |                 |  |  |   ,/|==== ooo |      ;
                                            |  |                 |  |  |  // |(((( [33]|    ,"
-Fav Langs: js, ts, c, go                   |  `-----------------'  |," .;'  |((((     |  ,"
+Text Editor: Vim & VSCode                  |  `-----------------'  |," .;'  |((((     |  ,"
                                            +-----------------------+  ;;    |         |,"
-                                              /_)______________(_/  //'     +---------+
+Fav Langs: js, ts, c, go                      /_)______________(_/  //'     +---------+
                                          ___________________________/___
                                         /  oooooooooooooooo  .o.  oooo /,
                                        / ==ooooooooooooooo==.o.  ooo= //

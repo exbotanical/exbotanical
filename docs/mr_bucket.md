@@ -20,4 +20,4 @@ Follows is a list of programs, software architectures, or problem statements tha
 - memchached / caching db implementation ([impl1](https://github.com/MatthewZito/tenure), [impl2](https://github.com/MatthewZito/tenure-go))
 - an implementation of RAFT
 - an implementation of Multi-Paxos ([impl](https://github.com/MatthewZito/multi-paxos))
-- Reactivity library ([impl](https://github.com/MatthewZito/vivisector))
+- Reactivity library ([impl1](https://github.com/MatthewZito/vivisector), [impl2](https://github.com/MatthewZito/resonant))

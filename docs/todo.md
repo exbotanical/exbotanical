@@ -12,6 +12,7 @@
 ## Frontend Libraries
 
 - [ ] Vue forms
+- [ ] Proper Styled Components for Vue 3
 
 ## Webapps
 

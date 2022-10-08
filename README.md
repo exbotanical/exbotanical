@@ -1,5 +1,7 @@
-<h3 align="center">☾ willkommen ☽</h3>
+<h3 align="center">☾ a/s/l ☽</h3>
 <hr />
+
+Polyglot programmer, comp-sci enthusiast. OCD lends to a penchant for static analysis tools. Employed as SDE 2 at AWS. Here's some stats:
 
 ```
 IRC Nick (freenode & libera): goldmund             ,----------------,              ,---------,

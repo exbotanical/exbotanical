@@ -1,7 +1,7 @@
 <h3 align="center">☾ a/s/l ☽</h3>
 <hr />
 
-Polyglot programmer, comp-sci enthusiast. OCD lends to a penchant for static analysis tools. Employed as SDE 2 at AWS. Here's some stats:
+Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools. Here's some stats:
 
 ```
 IRC Nick (freenode & libera): goldmund             ,----------------,              ,---------,
@@ -18,7 +18,7 @@ Text Editor: Vim & VSCodium                |  `-----------------'  |," .;'  |(((
                                            +-----------------------+  ;;    |         |,"
 Fav Langs: ts, c, go                          /_)______________(_/  //'     +---------+
                                          ___________________________/___
-                                        /  oooooooooooooooo  .o.  oooo /,
+Occupation: SDE2 @AWS                   /  oooooooooooooooo  .o.  oooo /,
                                        / ==ooooooooooooooo==.o.  ooo= //
                                       /_==__==========__==_ooo__ooo=_/'
 ```

@@ -12,8 +12,10 @@
 ## Frontend Libraries
 
 - [ ] Vue forms
-- [ ] Proper Styled Components for Vue 3
+- [x] Proper Styled Components for Vue 3
 
 ## Webapps
 
-- [ ] smtp email client 
+- [ ] smtp email client
+- [ ] node-based irc client
+- [ ] free kanban app that isn't shitty or suffering from feature-bloat

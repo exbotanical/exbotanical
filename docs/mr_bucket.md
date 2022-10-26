@@ -24,3 +24,4 @@ Follows is a list of programs, software architectures, or problem statements tha
 - test harness (I'll probably just contribute to vitest)
 - frontend framework (I'm thinking something like Vue SFCs but strictly with JSX)
 - css utility library (or contribute to unocss)
+- general purpose diffing tool

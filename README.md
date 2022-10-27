@@ -1,26 +1,25 @@
-<h3 align="center">☾ a/s/l ☽</h3>
-<hr />
-
-Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools. Here's some stats:
+Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools.
 
 ```
-IRC Nick (freenode & libera): goldmund             ,----------------,              ,---------,
-                                              ,-----------------------,          ,"        ,"|
-Distro: Arch                                ,"                      ,"|        ,"        ,"  |
-                                           +-----------------------+  |      ,"        ,"    |
-Desktop: X11 w/ i3 + picom                 |  .-----------------.  |  |     +---------+      |
-                                           |  |                 |  |  |     | -==----'|      |
-Terminal: Alacritty                        |  |                 |  |  |     |         |      |
-                                           |  |                 |  |  |/----|`---=    |      |
-Shell: Bash                                |  |                 |  |  |   ,/|==== ooo |      ;
-                                           |  |                 |  |  |  // |(((( [33]|    ,"
-Text Editor: Vim & VSCodium                |  `-----------------'  |," .;'  |((((     |  ,"
-                                           +-----------------------+  ;;    |         |,"
-Fav Langs: ts, c, go                          /_)______________(_/  //'     +---------+
-                                         ___________________________/___
-Occupation: SDE2 @AWS                   /  oooooooooooooooo  .o.  oooo /,
-                                       / ==ooooooooooooooo==.o.  ooo= //
-                                      /_==__==========__==_ooo__ooo=_/'
+                   -`
+                  .o+`
+                 `ooo/                         OS: Arch Linux
+                `+oooo:                        WM: i3wm
+               `+oooooo:                       Shell: bash
+               -+oooooo+:                      Terminal: Alacritty
+             `/:-:++oooo+:                     Text Editor: Vim, VSCodium
+            `/++++/+++++++:                    Langs: js, ts, c, go, java, python
+           `/++++++++++++++:                   IRC Nick: goldmund (freenode, libera)
+          `/+++ooooooooooooo/`                 Occupation: SDE2 @Amazon Web Services
+         ./ooosssso++osssssso+`
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
 ```
 
 Check out my [software bucket list](./docs/mr_bucket.md)

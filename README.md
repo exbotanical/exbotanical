@@ -1,13 +1,13 @@
-Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools. 
+Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools.
 
 ```
                    -`
                   .o+`
                  `ooo/                         OS               : Arch Linux
-                `+oooo:                        WM               : i3wm
+                `+oooo:                        WM               : hypr
                `+oooooo:                       Shell            : bash
                -+oooooo+:                      Terminal         : Alacritty
-             `/:-:++oooo+:                     Text Editor      : Neovim
+             `/:-:++oooo+:                     Text Editor      : vscodium
             `/++++/+++++++:                    Langs            : js, ts, c, go, java, python
            `/++++++++++++++:                   IRC Nick         : goldmund (freenode, libera)
           `/+++ooooooooooooo/`                 Keyboard Layout  : Programmer Dvorak

@@ -1,4 +1,4 @@
-Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools.
+Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools. Check out my record collection [here](https://www.discogs.com/user/magister_zito).
 
 ```
                    -`

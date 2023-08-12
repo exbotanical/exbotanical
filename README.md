@@ -32,3 +32,4 @@ Here's some random stats a la [AngelFire](https://en.wikipedia.org/wiki/Angelfir
 
 Check out my [software bucket list](./docs/mr_bucket.md)
 and my [project TODO list](./docs/todo.md)
+and finally, my [personal blog](zito.fyi)

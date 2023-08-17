@@ -12,7 +12,7 @@ Here's some random stats a la [AngelFire](https://en.wikipedia.org/wiki/Angelfir
                    -`
                   .o+`
                  `ooo/                         OS               : Arch Linux
-                `+oooo:                        WM               : hypr
+                `+oooo:                        WM               : sway
                `+oooooo:                       Shell            : bash
                -+oooooo+:                      Terminal         : Alacritty
              `/:-:++oooo+:                     Text Editor      : vscodium

@@ -15,13 +15,23 @@ Follows is a list of programs, software architectures, or problem statements tha
   - Requirements include: syntax highlighting, diffing, read/write, search
 - memory-mapped database ([impl](https://github.com/MatthewZito/pageboy))
 - compiler
-  - Requirements include: linker, compiler macros
-- browser-based implementation of multi-paxos
+  - Requirements include: linker, compiler macros, IR
+- contribute to a real compiler (could be the frontend, backend, doesn't matter). Thus far Kotlin looks pretty interesting albeit daunting
+- browser-based implementation of multi-paxos (something crazy like state consensus between browser tabs)
 - memchached / caching db implementation ([impl1](https://github.com/MatthewZito/tenure), [impl2](https://github.com/MatthewZito/tenure-go))
 - an implementation of RAFT
 - an implementation of Multi-Paxos ([impl](https://github.com/MatthewZito/multi-paxos))
 - reactivity library ([impl1](https://github.com/MatthewZito/vivisector), [impl2](https://github.com/MatthewZito/resonant))
 - test harness (I'll probably just contribute to vitest)
 - frontend framework (I'm thinking something like Vue SFCs but strictly with JSX)
-- css utility library (or contribute to unocss)
+- an SSR frontend framework
+- atomic css utility library (or contribute to unocss)
 - general purpose diffing tool
+- coroutines library
+- build a version control system
+- a frontend framework with C and WASM
+- contribute to nodejs
+- build a bespoke process manager and use it
+- contribute to a user-space libc
+- build a POSIX-compliant OS
+- build a database with indexing, conflict-resolution, memory mapping, query language

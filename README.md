@@ -1,4 +1,4 @@
-Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools.
+Polyglot programmer, comp-sci enthusiast, sed wizard. OCD lends to a penchant for static analysis tools. 100% self-taught. 
 
 Avocationally, I'm into open source, bodybuilding, hobbyist myrmecology (ants are basically highly-optimized programs and are utterly fascinating) and film/television.
 I furthermore enjoy cataloging and archiving various lists. Here's a few:
@@ -16,7 +16,7 @@ Here's some random stats a la [AngelFire](https://en.wikipedia.org/wiki/Angelfir
                `+oooooo:                       Shell            : bash
                -+oooooo+:                      Terminal         : Alacritty
              `/:-:++oooo+:                     Text Editor      : vscodium, vim, intellij
-            `/++++/+++++++:                    Langs            : js, ts, c, go, java, python, kotlin, rust
+            `/++++/+++++++:                    Langs            : js, ts, c, go, java, python, kotlin, rust, x86 assembly (prefer AT&T syntax)
            `/++++++++++++++:                   IRC Nick         : goldmund (freenode, libera)
           `/+++ooooooooooooo/`                 Keyboard Layout  : Programmer Dvorak
          ./ooosssso++osssssso+`

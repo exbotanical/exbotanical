@@ -31,7 +31,8 @@ Follows is a list of programs, software architectures, or problem statements tha
 - build a version control system
 - a frontend framework with C and WASM
 - contribute to nodejs
-- build a bespoke process manager and use it
+- build a bespoke kernel-space process manager and use it
+- build a userspace process manager (think `top`)
 - contribute to a user-space libc
 - build a POSIX-compliant OS
 - build a database with indexing, conflict-resolution, memory mapping, query language

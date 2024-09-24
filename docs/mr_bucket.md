@@ -22,10 +22,10 @@ Follows is a list of programs, software architectures, or problem statements tha
 - an implementation of RAFT
 - an implementation of Multi-Paxos ([impl](https://github.com/MatthewZito/multi-paxos))
 - reactivity library ([impl1](https://github.com/MatthewZito/vivisector), [impl2](https://github.com/MatthewZito/resonant))
-- test harness (I'll probably just contribute to vitest)
+- test harness
 - frontend framework (I'm thinking something like Vue SFCs but strictly with JSX)
 - an SSR frontend framework
-- atomic css utility library (or contribute to unocss)
+- atomic css utility library
 - general purpose diffing tool
 - coroutines library
 - build a version control system
@@ -34,5 +34,5 @@ Follows is a list of programs, software architectures, or problem statements tha
 - build a bespoke kernel-space process manager and use it
 - build a userspace process manager (think `top`)
 - contribute to a user-space libc
-- build a POSIX-compliant OS
-- build a database with indexing, conflict-resolution, memory mapping, query language
+- build a POSIX-compliant OS [working on it](https://github.com/exbotanical/toulouse)
+- build a database with indexing, conflict-resolution, memory mapping, query language [working on it](https://github.com/exbotanical/zql)

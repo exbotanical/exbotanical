@@ -36,3 +36,10 @@ Follows is a list of programs, software architectures, or problem statements tha
 - contribute to a user-space libc
 - build a POSIX-compliant OS [working on it](https://github.com/exbotanical/toulouse)
 - build a database with indexing, conflict-resolution, memory mapping, query language [working on it](https://github.com/exbotanical/zql)
+- implement a [mix network](https://en.wikipedia.org/wiki/Mix_network)
+
+## Upcoming projects
+- [ ] Finish toulouse (32-bit OS)
+- [ ] Finish tabloid (text editor)
+- [ ] Finish zql
+- [ ] Make-like build tool
